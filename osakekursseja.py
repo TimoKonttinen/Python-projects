@@ -5,7 +5,7 @@ import pandas as pd
 st.write("""
          #yksinkertainen osakehinta-applikaatio
          Sovellus näyttää päätöskurssit ja volyymit Googlen tietokannasta
-         Näytön voi myös vaihtaa muille osakkeille""" 
+         Näytön voi myös vaihtaa muille osakkeille!""" 
          )
 
 tickerSymbol = 'GOOGL'
